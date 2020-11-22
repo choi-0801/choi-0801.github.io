@@ -96,12 +96,12 @@ author:
   name             : "최준영"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "성균관대학교 소프트웨어학과 학생"
-  location         : "Somewhere"
+  location         : "Seoul"
   email            : joeplay0801@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "joeplay0801@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
